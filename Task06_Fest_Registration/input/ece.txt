@@ -1,0 +1,3 @@
+192311005,Ravi,ECE,ravi@example.com,Coding;Drama
+192311001,Aarav,CSE,aarav@example.com,Music;Dance
+192311006,Nila,ECE,nila@example.com,Dance

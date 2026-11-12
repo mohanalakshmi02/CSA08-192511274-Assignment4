@@ -1,0 +1,11 @@
+COLLEGE FEST REGISTRATION SUMMARY
+---------------------------------
+Total valid registrations: 7
+Total events: 4
+Total errors: 4
+
+EVENT-WISE PARTICIPANT COUNT
+Coding: 3 participants
+Dance: 3 participants
+Drama: 3 participants
+Music: 3 participants

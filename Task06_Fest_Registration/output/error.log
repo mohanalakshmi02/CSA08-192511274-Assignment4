@@ -1,0 +1,4 @@
+cse.txt, line 3: Invalid email address
+cse.txt, line 4: Expected exactly 5 fields
+ece.txt, line 2: Duplicate registration 192311001
+civil.txt: [Errno 2] No such file or directory: 'C:\\Users\\Mohana Lakshmi S\\OneDrive\\Desktop\\CSA08_assignment 4\\Task06_Fest_Registration\\input\\civil.txt'

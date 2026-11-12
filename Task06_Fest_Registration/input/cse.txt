@@ -1,0 +1,4 @@
+192311001,Aarav,CSE,aarav@example.com,Music;Dance
+192311002,Diya,CSE,diya@example.com,Drama;Music
+192311003,Kavin,CSE,kavinexample.com,Music;Coding
+192311004,Meena,CSE,meena@example.com
